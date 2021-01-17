@@ -1,0 +1,7 @@
+{
+    "editor.codeActionsOnSave": null,
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.quickSuggestions": false
+    }
+}

@@ -1,0 +1,41 @@
+[[socials]]
+    id = "rss"
+    url = "/rss.xml"
+    icon = "rss"
+    title = "RSS"
+    weight = 1
+
+[[socials]]
+    id = "email"
+    url = "mailto:biesnecker@gmail.com"
+    icon = "envelope"
+    title = "Email"
+    weight = 2
+
+[[socials]]
+    id = "github"
+    url = "https://github.com/biesnecker"
+    icon = "github"
+    title = "GitHub"
+    weight = 3
+
+[[socials]]
+    id = "twitter"
+    url = "https://twitter.com/biesnecker"
+    icon = "twitter"
+    title = "Twitter"
+    weight = 4
+
+[[socials]]
+    id = "instagram"
+    url = "https://instagram.com/biesnecker"
+    icon = "instagram"
+    title = "Instagram"
+    weight = 5
+
+[[socials]]
+    id = "telegram"
+    url = "https://t.me/biesnecker"
+    icon = "telegram"
+    title = "Telegram"
+    weight = 6

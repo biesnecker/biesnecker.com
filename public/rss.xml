@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>John Biesnecker</title>
+        <link>https://example.com/</link>
+        <description>The personal website of John Biesnecker.</description>
+        <generator>Hugo 0.80.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>jbiesnecker@gmail.com (John Biesnecker)</managingEditor>
+        
+        
+            <webMaster>jbiesnecker@gmail.com (John Biesnecker)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Sun, 17 Jan 2021 12:52:03 -0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+        
+        
+            <item>
+                <title>Hello Again, World</title>
+                <link>https://example.com/posts/hello-again-world/</link>
+                <guid isPermaLink="true">https://example.com/posts/hello-again-world/</guid>
+                <pubDate>Sat, 16 Jan 2021 12:07:25 -0800</pubDate>
+                
+                    <author>jbiesnecker@gmail.com (John Biesnecker)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;I haven&amp;rsquo;t maintained a blog for some time now, for no real reason at all except that I didn&amp;rsquo;t have the will to write, or really to do much of anything. It&amp;rsquo;s been a rough couple of years&amp;ndash;not just COVID, but starting before that and amplified by COVID. I&amp;rsquo;m trying to dig my way out of that funk, and one of the ways I&amp;rsquo;m doing that is by starting to write again.&lt;/p&gt;
+&lt;p&gt;I have some things to write about&amp;ndash;I&amp;rsquo;m learning Russian, and I have some side projects going here and there&amp;ndash;and I might try to import some of the better posts from old blogs into this one. More than anything I want to get back into the habit of writing, as it&amp;rsquo;s one of the things that has kept me centered in the past.&lt;/p&gt;
+&lt;p&gt;Hope all of you are having a good 2021.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
