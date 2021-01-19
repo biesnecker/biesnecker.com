@@ -1,0 +1,5 @@
+{{ if .Params.js }}
+{{ range .Params.js -}}
+<script src="{{ . | absURL }}"></script>
+{{- end }}
+{{ end }}

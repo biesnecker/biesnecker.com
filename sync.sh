@@ -1,3 +1,3 @@
 #!/bin/sh
 
-hugo && aws s3 sync ./public s3://biesnecker.com/
+npm run build && hugo && aws s3 sync ./public s3://biesnecker.com/

@@ -4,22 +4,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">John Biesnecker</title>
     <subtitle type="html">The personal website of John Biesnecker.</subtitle>
-    <updated>2021-01-17T12:52:03-08:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2021-01-18T18:31:48-08:00</updated>
+    <id>https://biesnecker.com/</id>
+    <link rel="alternate" type="text/html" href="https://biesnecker.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://biesnecker.com/atom.xml" />
     <author>
             <name>John Biesnecker</name>
-            <uri>https://example.com/</uri>
+            <uri>https://biesnecker.com/</uri>
             
                 <email>jbiesnecker@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
         <entry>
+            <title type="text">Who Are We, If Not Measured By Our Impact On Others?</title>
+            <link rel="alternate" type="text/html" href="https://biesnecker.com/posts/who-are-we-if-not-measured/" />
+            <id>https://biesnecker.com/posts/who-are-we-if-not-measured/</id>
+            <updated>2021-01-18T18:29:41-08:00</updated>
+            <published>2021-01-18T18:18:52-08:00</published>
+            <author>
+                    <name>John Biesnecker</name>
+                    <uri>https://biesnecker.com/</uri>
+                    <email>jbiesnecker@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Who are we, if not measured by our impact on others? That’s who we are! We’re not who we say we are, we’re not who we want to be – we are the sum of the influence and impact that we have, in our lives, on others.</summary>
+            
+                <content type="html">&lt;figure&gt;
+    &lt;img src=&#34;https://biesnecker.com/images/139729518_137817071485897_6807501197390389484_n.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Who are we, if not measured by our impact on others? That’s who we are! We’re not who we say we are, we’re not who we want to be – we are the sum of the influence and impact that we have, in our lives, on others.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Carl Sagan&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://biesnecker.com/tags/quotes/" term="quotes" label="quotes" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">#ShantyTok Explainer</title>
+            <link rel="alternate" type="text/html" href="https://biesnecker.com/posts/shantytok-explainer/" />
+            <id>https://biesnecker.com/posts/shantytok-explainer/</id>
+            <updated>2021-01-18T16:58:15-08:00</updated>
+            <published>2021-01-17T12:52:35-08:00</published>
+            <author>
+                    <name>John Biesnecker</name>
+                    <uri>https://biesnecker.com/</uri>
+                    <email>jbiesnecker@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Who knew 19th century whaling songs could be so fun?</summary>
+            
+                <content type="html">&lt;p&gt;If you, like the rest of world, are enthralled by the phenomenon that is #shantytok, you might enjoy this explainer video:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/huwJ4a8FpTo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Guardian also has a good piece on &lt;a href=&#34;https://www.theguardian.com/world/2021/jan/15/shantytok-how-a-19th-century-seafaring-epic-inspired-a-covid-generation&#34;&gt;the story behind The Wellerman&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wellerman’s six verses tell the epic tale of a ship, the Billy of Tea, and its crew’s battle – “for 40 days, or even more” – to land a defiant whale. With the struggle ongoing at the shanty’s end, “the Wellerman makes his regular call, to encourage the Captain, crew and all”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Archer suggests that it is the shanty’s “cheerful energy and hopeful outlook” – in contrast to other more “dreary” whaling songs – that has led to Wellerman’s rediscovery on social media.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“My guess is that the Covid lockdowns have put millions of young [people] into a similar situation that young whalers were in 200 years ago: confined for the foreseeable future, often far from home, running out of necessities, always in risk of sudden death, and spending long hours with no communal activities to cheer them up.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ShantyTok is exactly the sort of wholesomeness we all need right now.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://biesnecker.com/tags/music/" term="music" label="music" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://biesnecker.com/tags/sea-shanties/" term="sea shanties" label="sea shanties" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://biesnecker.com/tags/tiktok/" term="tiktok" label="tiktok" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Hello Again, World</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/hello-again-world/" />
-            <id>https://example.com/posts/hello-again-world/</id>
+            <link rel="alternate" type="text/html" href="https://biesnecker.com/posts/hello-again-world/" />
+            <id>https://biesnecker.com/posts/hello-again-world/</id>
             <updated>2021-01-16T14:01:06-08:00</updated>
             <published>2021-01-16T12:07:25-08:00</published>
             <author>

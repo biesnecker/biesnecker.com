@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://biesnecker.com/"
 title = "John Biesnecker"
 languageCode = "en"
 hasCJKLanguage = true
@@ -113,7 +113,7 @@ uglyURLs = false
     toLower = true
     [[related.indices]]
         name = "categories"
-        weight = 100
+        weight = 50
     [[related.indices]]
         name = "tags"
         weight = 95
@@ -1315,7 +1315,7 @@ uglyURLs = false
     ######################################
     # Medium Zoom
 
-    enableMediumZoom = true
+    enableMediumZoom = false
     # Note: https://github.com/francoischalifour/medium-zoom
 
 

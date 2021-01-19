@@ -3,31 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://biesnecker.com/</loc>
+    <lastmod>2021-01-18T18:29:41-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/posts/</loc>
+    <lastmod>2021-01-18T18:29:41-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/tags/quotes/</loc>
+    <lastmod>2021-01-18T18:29:41-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/tags/</loc>
+    <lastmod>2021-01-18T18:29:41-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/posts/who-are-we-if-not-measured/</loc>
+    <lastmod>2021-01-18T18:29:41-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/posts/shantytok-explainer/</loc>
+    <lastmod>2021-01-18T16:58:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/tags/music/</loc>
+    <lastmod>2021-01-18T16:58:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/tags/sea-shanties/</loc>
+    <lastmod>2021-01-18T16:58:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/tags/tiktok/</loc>
+    <lastmod>2021-01-18T16:58:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biesnecker.com/about/</loc>
     <lastmod>2021-01-16T13:19:39-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://biesnecker.com/posts/hello-again-world/</loc>
     <lastmod>2021-01-16T14:01:06-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hello-again-world/</loc>
-    <lastmod>2021-01-16T14:01:06-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2021-01-16T14:01:06-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://biesnecker.com/categories/</loc>
   </url>
   
 </urlset>

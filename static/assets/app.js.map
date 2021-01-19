@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://biesnecker/./src/app.js"],"names":["console","log","alert"],"mappings":"AAAAA,QAAQC,IAAI,UAEZC,MAAM","file":"app.js","sourcesContent":["console.log(\"app.js\");\n\nalert(\"Foobar\");\n"],"sourceRoot":""}
