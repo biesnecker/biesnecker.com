@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">John Biesnecker</title>
     <subtitle type="html">The personal website of John Biesnecker.</subtitle>
-    <updated>2021-01-18T18:31:48-08:00</updated>
+    <updated>2021-01-18T18:33:54-08:00</updated>
     <id>https://biesnecker.com/</id>
     <link rel="alternate" type="text/html" href="https://biesnecker.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://biesnecker.com/atom.xml" />
