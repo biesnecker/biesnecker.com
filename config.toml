@@ -1,0 +1,15 @@
+baseURL = 'https://biesnecker.com/'
+languageCode = 'en-us'
+title = 'Biesnecker'
+theme = 'jwbi'
+
+copyright = "Copyright &copy; {year} John Biesnecker. All rights reserved."
+
+[taxonomies]
+tag = 'tags'
+
+[deployment]
+[[deployment.targets]]
+name = 's3-deployment'
+URL = 's3://biesnecker.com?region=us-east-1'
+cloudFrontDistributionID = 'EOK2NDFQ8JFMN'

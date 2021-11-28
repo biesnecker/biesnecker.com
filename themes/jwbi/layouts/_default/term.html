@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h1>{{ .Data.Singular | title }}: {{ .Title }}</h1>
+
+<ul>
+  {{ range .Pages.ByPublishDate.Reverse }} {{ partial "post-list-item" .}} {{
+  end }}
+</ul>
+
+<ul class="prev-next">
+  <li class="prev">
+    <a href="{{ .Parent.RelPermalink }}">All {{ .Data.Plural }}</a>
+  </li>
+</ul>
+{{ end }}

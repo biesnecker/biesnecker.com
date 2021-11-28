@@ -1,0 +1,4 @@
++++
+title="Résumé"
+type="page"
++++

@@ -1,0 +1,4 @@
+{{with .Summary}}<span class="summary">{{ plainify . }}</span>{{end}}
+<time datetime={{ .Date.Format "2006-01-02T15:04:05Z0700"}}>
+    {{ .PublishDate.Format "2 Jan 2006"}}
+</time>

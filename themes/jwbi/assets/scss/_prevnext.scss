@@ -1,0 +1,34 @@
+@import "common";
+
+ul.prev-next {
+  display: flex;
+
+  li {
+    display: flex;
+    flex: 1;
+    margin: 0;
+    list-style-type: none;
+  }
+
+  li.prev::before {
+    content: "\2190\a0";
+  }
+
+  li.next {
+    justify-content: flex-end;
+  }
+
+  li.next::after {
+    content: "\a0\2192";
+  }
+}
+
+@media (max-width: $breakpoint-mobile) {
+  ul.prev-next {
+    display: block;
+
+    li {
+      display: block;
+    }
+  }
+}

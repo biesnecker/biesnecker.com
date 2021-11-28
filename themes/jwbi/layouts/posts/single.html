@@ -1,0 +1,5 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>{{ partial "post-summary-and-date" . }}</p>
+<section class="single-content">{{ .Content }}</section>
+{{- partial "single-tag-list" .}} {{- partial "single-prev-next" . }}{{ end }}

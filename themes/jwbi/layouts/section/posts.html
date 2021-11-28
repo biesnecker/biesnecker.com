@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h1>Posts</h1>
+
+{{ with .Content }}
+<p>{{ . }}</p>
+{{ end }} {{ range .Pages.GroupByPublishDate "January 2006" }}
+<h3>{{ .Key }}</h3>
+<ul>
+  {{ range .Pages }} {{ partial "post-list-item" .}} {{ end }}
+</ul>
+{{ end }} {{ end }}
