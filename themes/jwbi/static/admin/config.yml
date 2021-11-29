@@ -1,0 +1,23 @@
+backend:
+  name: github
+  branch: main
+  repo: biesnecker/biesnecker.com
+  base_url: https://api.biesnecker.com
+  auth_endpoint: /oauth/biesnecker
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Body", name: "body", widget: "markdown" }
