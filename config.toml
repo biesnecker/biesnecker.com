@@ -5,6 +5,12 @@ theme = 'jwbi'
 
 copyright = "Copyright &copy; {year} John Biesnecker. All rights reserved."
 
+[markup]
+[markup.highlight]
+codeFences = true
+noClasses = false
+tabWidth = 4
+
 [taxonomies]
 tag = 'tags'
 
