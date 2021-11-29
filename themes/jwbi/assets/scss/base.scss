@@ -1,3 +1,6 @@
+@import "prevnext";
+@import "headernav";
+
 body {
   background-color: floralwhite;
   font-family: "Iowan Old Style", "Apple Garamond", "Baskerville",
@@ -5,72 +8,20 @@ body {
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-header {
-  margin-bottom: 2rem;
-  display: flex;
-  align-items: baseline;
-}
-
-header .title {
-  flex: 2;
-  line-height: 1;
-  margin: 0;
-}
-
-header .title a {
-  color: black;
-  text-decoration: none;
-}
-
-header nav {
-  flex: 1;
-}
-
-header nav ul {
-  display: flex;
-}
-
-header nav li {
-  flex: 1;
-  text-align: center;
-  list-style-type: none;
-  margin: 0;
-}
-
-@media (max-width: 500px) {
-  header {
-    display: block;
-    text-align: center;
-  }
-
-  header .title {
-    flex: 2;
-    line-height: 1.5;
-    margin: 0;
-  }
-
-  header nav {
-    display: inline;
-  }
-
-  header nav ul {
-    display: block;
-    text-align: center;
-  }
-
-  header nav li {
-    display: inline;
-  }
-
-  header nav li:not(:last-child)::after {
-    content: " \b7 ";
-  }
-}
-
 #container {
   max-width: 800px;
   padding: 1rem;
   margin: 0px auto;
+}
+
+em,
+i {
+  font-style: italic;
+}
+
+strong,
+b {
+  font-weight: bold;
 }
 
 h1 {

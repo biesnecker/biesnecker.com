@@ -1,11 +1,10 @@
-{{ $styleoptions := (dict "targetPath" "/css/base2.css")}} {{ $sass :=
-resources.Get "scss/base2.scss" }} {{ $style := $sass | resources.ToCSS
+{{ $styleoptions := (dict "targetPath" "/css/base.css")}} {{ $sass :=
+resources.Get "scss/base.scss" }} {{ $style := $sass | resources.ToCSS
 $styleoptions }}
 <head lang="en">
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" type="text/css" href="/css/reset.css" />
-  <link rel="stylesheet" type="text/css" href="/css/base.css" />
   {{ with $style }}
   <link rel="stylesheet" type="text/css" href="{{ .RelPermalink }}" />
   {{ end }} {{- block "title" . -}} {{ $title := print .Site.Title " | " .Title

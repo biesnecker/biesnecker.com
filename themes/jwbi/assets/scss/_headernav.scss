@@ -1,0 +1,63 @@
+@import "common";
+
+header {
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: baseline;
+
+  .title {
+    flex: 2;
+    line-height: 1;
+    margin: 0;
+
+    a {
+      color: black;
+      text-decoration: none;
+    }
+  }
+
+  nav {
+    flex: 1;
+
+    ul {
+      display: flex;
+    }
+
+    li {
+      flex: 1;
+      text-align: center;
+      list-style-type: none;
+      margin: 0;
+    }
+  }
+}
+
+@media (max-width: $breakpoint-mobile) {
+  header {
+    display: block;
+    text-align: center;
+
+    .title {
+      flex: 2;
+      line-height: 1.5;
+      margin: 0;
+    }
+
+    nav {
+      display: inline;
+
+      ul {
+        display: block;
+        text-align: center;
+      }
+
+      li {
+        display: inline;
+      }
+
+      li:not(:last-child)::after {
+        content: " \b7 ";
+      }
+    }
+  }
+}

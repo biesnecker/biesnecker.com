@@ -2,8 +2,7 @@
 <h1>{{ .Data.Singular | title }}: {{ .Title }}</h1>
 
 <ul>
-  {{ range .Pages.ByPublishDate.Reverse }} {{ partial "post-list-item" .}} {{
-  end }}
+  {{ range .Pages.ByPublishDate.Reverse }} {{ .Render "li" }} {{ end }}
 </ul>
 
 <ul class="prev-next">
