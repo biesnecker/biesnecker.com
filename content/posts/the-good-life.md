@@ -1,7 +1,7 @@
 ---
 title: The Good Life
 date: 2021-11-29T02:35:11.733Z
-summary: A poem by Tracy K. Smith.
+summary: A poem.
 tags:
   - poetry
 draft: false
