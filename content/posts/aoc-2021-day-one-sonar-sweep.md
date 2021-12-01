@@ -5,7 +5,7 @@ summary: It's that time of year again!
 tags:
   - golang
   - adventofcode
-draft: true
+draft: false
 ---
 The [Advent of Code](https://adventofcode.com/) is my favorite time of the year. This time around I'm using Go, a language I've been learning over the last few months (by completing previous years' AoC problems), and will be blogging my (hopefully!) daily solutions.
 
