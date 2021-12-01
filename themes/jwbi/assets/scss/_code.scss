@@ -1,12 +1,15 @@
 @import "highlight";
 
+code {
+  font-family: "Menlo", "Consolas", "Monaco", "Liberation Mono",
+      "Lucida Console", "monospace";
+  line-height: 1.5;
+}
+
 pre {
   white-space: pre;
 
   code {
-    font-family: "Menlo", "Consolas", "Monaco", "Liberation Mono",
-      "Lucida Console", "monospace";
-    line-height: 1.5;
     margin-bottom: 1rem;
   }
 }
