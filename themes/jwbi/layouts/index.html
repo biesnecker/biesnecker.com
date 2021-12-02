@@ -15,9 +15,9 @@
 <h3>Recently</h3>
 
 <ul>
-  {{- range ( where site.RegularPages "Section" "posts" | first 3 ) }}
+  {{- range ( where site.RegularPages "Section" "posts" | first 10 ) }}
   <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>. {{ plainify .Summary }}
+    <a href="{{ .Permalink }}">{{ .Title }}</a>. {{ safeHTML .Summary }}
     <time>{{ .PublishDate.Format "2 Jan 2006"}}</time>.
   </li>
   {{ end }}

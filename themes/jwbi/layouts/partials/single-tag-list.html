@@ -1,6 +1,6 @@
 {{ with .GetTerms "tags" }}
 <ul class="single-post-tags">
-  {{ range . }}
+  {{ range (sort . "LinkTitle" "asc") }}
   <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
   {{ end }}
 </ul>
