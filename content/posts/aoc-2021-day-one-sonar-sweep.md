@@ -74,7 +74,7 @@ or even:
 
 ```go
 for i, v := range nums[3:] {
-    if v > nums[i-3] {
+    if v > nums[i] {
         count++
     }
 }
