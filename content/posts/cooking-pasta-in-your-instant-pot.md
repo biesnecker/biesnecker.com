@@ -10,7 +10,7 @@ draft: false
 ---
 Cooking pasta in your Instant Pot is easy.
 
-1. Calculate the cooking time with the formula `t = n / 2 - 2`, where the division truncates, and `n` is the smallest number of minutes the box says to cook. So, for instance, if the box says that your pasta cooks in 9-11 minutes, `n` is 9, and `t` would be 2. If the result is 0 or negative, set your Instant Pot for zero minutes (that is, it gets up to pressure and then is immediately done).
+1. Calculate the cooking time in minutes with the formula `t = n / 2 - 2`, where the division truncates, and `n` is the smallest number of minutes the box says to cook. So, for instance, if the box says that your pasta cooks in 9-11 minutes, `n` is 9, and `t` would be 2. If the result is 0 or negative, set your Instant Pot for zero minutes (that is, it gets up to pressure and then is immediately done).
 2. Put in 2 cups of liquid for every 8 ounces of pasta (so 4 cups for the standard 16oz box).
 3. Cook.
 4. Natural release for five minutes, then manually release whatever pressure is left.
