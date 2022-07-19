@@ -15,5 +15,5 @@ Cooking pasta in your Instant Pot is easy.
 3. Cook.
 4. Natural release for five minutes, then manually release whatever pressure is left.
 5. Stir the shit out of the pasta. You're trying to make sure that your pasta comes into contact with whatever little bits of unabsorbed water are left.
-6. Put the lid back on (don't need to seal it) and let it steam for another 10 or so minutes.
+6. Put the lid back on (don't need to seal it) and let it steam for another 10 or so minutes. Make sure the Instant Pot is totally off at this point (you don't want the "Keep Warm" function continuing to heat the pasta or it will overcook).
 7. Enjoy!
