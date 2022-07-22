@@ -1,7 +1,7 @@
 ---
 title: Why is propaganda so much more successful when it stirs up hatred?
 date: 2022-07-22T00:02:45.318Z
-summary: Bertrand Russell on envy, hatred, and propaganda.
+summary: Envy, hatred, and propaganda.
 tags:
   - philosophy
   - bertrandrussell
