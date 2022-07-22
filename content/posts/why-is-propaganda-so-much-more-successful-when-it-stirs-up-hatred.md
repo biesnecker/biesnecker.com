@@ -1,7 +1,7 @@
 ---
-title: Why is propaganda so much more successful when it stirs up hatred?
-date: 2022-07-22T00:10:19.001Z
-summary: Envy, hatred, and propaganda.
+title: Envy, hatred, and propaganda
+date: 2022-07-22T00:50:21.751Z
+summary: Why is propaganda so much more successful when it stirs up hatred?
 tags:
   - philosophy
   - bertrandrussell
