@@ -63,6 +63,15 @@ blockquote {
   text-align: justify;
 }
 
+blockquote {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+blockquote p {
+  text-align:left;
+}
+
 @media (max-width: 500px) {
   p,
   ol,
