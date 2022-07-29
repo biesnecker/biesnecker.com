@@ -137,3 +137,8 @@ ul.single-post-tags li::before {
 ul.single-post-tags li:not(:last-child)::after {
   content: ", ";
 }
+
+audio.simple-audio-player {
+  width:50%;
+  height:25px;
+}
