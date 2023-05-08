@@ -25,6 +25,11 @@ b {
   font-weight: bold;
 }
 
+s {
+  text-decoration: line-through;
+  filter: brightness(50%);
+}
+
 h1 {
   font-size: 2rem;
   line-height: 1.5;
