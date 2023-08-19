@@ -1,5 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-<p>{{ partial "post-summary-and-date" . }}</p>
+<p><time datetime={{ .Date.Format "2006-01-02T15:04:05Z0700"}}>
+    {{ .PublishDate.Format "2 Jan 2006"}}
+</time></p>
 <section class="single-content">{{ .Content }}</section>
 {{- partial "single-tag-list" .}} {{- partial "single-prev-next" . }}{{ end }}
