@@ -3,8 +3,7 @@ title: "Café, compromisos y claridad"
 date: 2023-08-19T11:57:33-0400
 summary: "¿Por qué cuando tenemos responsabilidades no las queremos, y cuando no las tenemos, las añoramos?"
 tags:
-  - spanish
-  - adulthood
+  - adultez
   - responsibilidad
 draft: false
 ---
